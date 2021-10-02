@@ -1,0 +1,13 @@
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.exe
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.deps.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.runtimeconfig.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.runtimeconfig.dev.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\bin\Debug\netcoreapp3.1\If_Esel.pdb
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.AssemblyInfo.cs
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.pdb
+C:\projetos\ams\1ano\EstruturaSwitchCase\IF_ESEL\If_Esel\obj\Debug\netcoreapp3.1\If_Esel.genruntimeconfig.cache
