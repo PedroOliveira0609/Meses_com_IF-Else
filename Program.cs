@@ -27,7 +27,7 @@ namespace If_Esel
             Console.WriteLine("Consulte a tabela e digite o mês desejado: ");
             mes = Console.ReadLine();
             Console.WriteLine("");
-
+            Console.WriteLine("");
             if (mes == "Janeiro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
