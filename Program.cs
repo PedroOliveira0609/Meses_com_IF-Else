@@ -25,65 +25,65 @@ namespace If_Esel
             Console.WriteLine("|  Dezembro   |");
             Console.WriteLine("");
             Console.WriteLine("Consulte a tabela e digite o mês desejado: ");
-            mes = Console.ReadLine();
+            MES = Console.ReadLine();
             Console.WriteLine("");
             Console.WriteLine("");
-            if (mes == "Janeiro")
+            if (MES == "Janeiro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Fevereiro")
+            else if (MES == "Fevereiro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 28/29 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Março")
+            else if (MES == "Março")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Abril")
+            else if (MES == "Abril")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 30 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Maio")
+            else if (MES == "Maio")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Junho")
+            else if (MES == "Junho")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 30 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Julho")
+            else if (MES == "Julho")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Agosto")
+            else if (MES == "Agosto")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Setembro")
+            else if (MES == "Setembro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 30 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Outubro")
+            else if (MES == "Outubro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Novembro")
+            else if (MES == "Novembro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 30 DIAS!");
                 Console.WriteLine("");
             }
-            else if (mes == "Dezembro")
+            else if (MES == "Dezembro")
             {
                 Console.WriteLine("O MÊS DIGITADO POSSUI 31 DIAS!");
                 Console.WriteLine("");
